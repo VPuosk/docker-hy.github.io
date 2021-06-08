@@ -10,7 +10,7 @@ order: 6
 
 There's no requirement to sign up for the course until after you've completed the exercises and wish to end your course.
 
-<!-- Added a comment here for testing purposes fdfd-->
+<!-- Added a comment here for testing purposes-->
 
 ## How many credits are available? ##
 
