@@ -1,9 +1,6 @@
 name: Release DevOps with Docker
 
-on:
-  push:
-    branches: 
-      - master
+on: [push]
 
 jobs:
   build:
